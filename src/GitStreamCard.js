@@ -17,8 +17,6 @@ import MoreVertIcon from '@mui/icons-material/MoreVert';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos'; // For details icon
 
-import GitHubIcon from '@mui/icons-material/GitHub';
-
 const useStyles = makeStyles({
   root: {
     maxWidth: 345,

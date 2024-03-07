@@ -1,7 +1,6 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom/client';
 import { StyledEngineProvider } from '@mui/material/styles';
-import Demo from './Demo';
 import GitStreamCard from './GitStreamCard'
 
 const feedItems = [ 
